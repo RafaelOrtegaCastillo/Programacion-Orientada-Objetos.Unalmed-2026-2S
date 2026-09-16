@@ -1,3 +1,9 @@
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt3UWPr0gzcNzlvfVMWl2PJHENpSdRFhENXb3riAW4FQ&s=10"  />
+</div>
+
+###
+
 <h1 data-importer="text" align="center">Programacion Orientada a Objetos</h1>
 
 ###
