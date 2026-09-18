@@ -18,6 +18,8 @@
 
 <h3 data-importer="text" align="left">Actividades resueltas:</h3>
 
+[Actividad #1 - individual](https://github.com/RafaelOrtegaCastillo/Programacion-Orientada-Objetos.Unalmed-2026-2S/tree/main/Actividad%20%231%20-%20individual)
+
 ###
 
 <h2 data-importer="text" align="left">Lenguaje Usado:</h2>
