@@ -20,6 +20,8 @@
 
 [Actividad #1 - individual](https://github.com/RafaelOrtegaCastillo/Programacion-Orientada-Objetos.Unalmed-2026-2S/tree/main/Actividad%20%231%20-%20individual)
 
+[Actividad #2 - individual](https://github.com/RafaelOrtegaCastillo/Programacion-Orientada-Objetos.Unalmed-2026-2S/tree/main/Actividad%232-individual)
+
 ###
 
 <h2 data-importer="text" align="left">Lenguaje Usado:</h2>
